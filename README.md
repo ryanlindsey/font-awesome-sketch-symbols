@@ -1,16 +1,10 @@
-## A FontAwesome 4.3.0 symbol library for Sketch 3+
+## A Font Awesome 4.3.0 symbol library for [Sketch 3+](http://bohemiancoding.com/sketch/)
 
-### Grouped by Category:
-* Directional Icons
-* Chart Icons
-* Brand Icons
-* Text Editor Icons
-* Transportation Icons
-* Web Application Icons
-* Currency Icons
-* File Type Icons
-* Video Player Icons
-* Medical Icons
-* Gender Icons
+You will need to have [Font Awesome 4.3.0](http://fortawesome.github.io/Font-Awesome/) installed on in your local fonts for these symbols to work correctly
 
+
+### Sketch Symbol Organization
+![Symbol Organization](https://github.com/pixelsonly/font-awesome-sketch-symbols/blob/master/symbol-groups.png)
+
+### Font Awesome 4.3.0 Icons
 ![Font Awesome 4.3.0 Symbols For Sketch 3](https://github.com/pixelsonly/font-awesome-sketch-symbols/blob/master/font-awesome-4.3.0-symbols.png)
